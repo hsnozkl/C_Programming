@@ -3,8 +3,8 @@
 
 int main()
 {
-    // 4 den sonrasını almaz
-    /* int i;
+    // 4 den sonrasÃ½nÃ½ almaz
+    int i;
     for(i = 0; i < 10; i++)
     {
         printf("%d\n",i);
@@ -14,10 +14,10 @@ int main()
         }
     }
 
-    return 0; */
+    return 0; 
 
-    // 3 den sonrasını almaz
-    /* int i;
+    // 3 den sonrasÃ½nÃ½ almaz
+    int i;
     for(i = 0; i < 10; i++)
     {
          if(i == 4)
@@ -29,7 +29,7 @@ int main()
 
     return 0; */
 
-    /* int i;
+    int i;
     for(i = 0; i < 10; i++)
     {
         if(i == 5)
