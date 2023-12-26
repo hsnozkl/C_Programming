@@ -3,25 +3,25 @@
 
 int main()
 {
-    /* for (intializationStatement; testExpression; updateStatement)
+    for (intializationStatement; testExpression; updateStatement)
     {
         statements inside the body pf loop
     }
-    */
+    
 
-    /*int i;
+    int i;
 
     for(i=1;i<=10;i++)
     {
         printf("%d ",i);
     }
 
-    return 0; */
+    return 0; 
 
-    /* kullanýcýdan 1 sayý girmesini isteyiniz 1 den gireceðiniz sayýya kadar
-    olan sayýlarýn toplamýný for döngüsüyle hesaplayýnýz*/
+    /* kullanÃ½cÃ½dan 1 sayÃ½ girmesini isteyiniz 1 den gireceÃ°iniz sayÃ½ya kadar
+    olan sayÃ½larÃ½n toplamÃ½nÃ½ for dÃ¶ngÃ¼sÃ¼yle hesaplayÃ½nÃ½z*/
 
-    /* int a;
+    int a;
     int i,toplam = 0;
 
     printf("Lutfen bir sayi giriniz\n");
@@ -33,9 +33,9 @@ int main()
     }
     printf("Toplam:%d",toplam);
 
-    return 0; */
+    return 0; 
 
-    /* 0 dan 10 a kadar olan tek sayýlarý for döngüsü ile ekrana bastýrýnýz */
+    /* 0 dan 10 a kadar olan tek sayÃ½larÃ½ for dÃ¶ngÃ¼sÃ¼ ile ekrana bastÃ½rÃ½nÃ½z */
 
     int i;
 
