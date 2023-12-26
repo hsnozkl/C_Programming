@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682715530 source:c:\users\hasan\onedrive\masaüstü\yap\strlwr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
