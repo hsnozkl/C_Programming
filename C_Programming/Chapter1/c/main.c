@@ -3,7 +3,7 @@
 
 int main()
 {
-    /*
+    
     int a = 5;
     float b = 5.55;
     double c = 5.67;
@@ -33,12 +33,12 @@ int main()
     printf("Lutfen bir karakter giriniz\n");
     scanf("%c",&d);
     printf("Aldigimiz karakter %c",d);
-    return 0; */
+    return 0; 
 
     //kullanıcıdan 2 adet sayı ve isminin baş harfini alınız ilk sayım bu
     //2. sayım bu ismimim baş harfi bu şekilde ekrana bastırınız
 
-    /* int ilksayim;
+    int ilksayim;
     float ikincisayim;
     char basharf;
 
@@ -53,9 +53,9 @@ int main()
 
     printf("Ilk sayim:%d Ikinci sayim:%.2f Isiminizin bas harfi:%c",ilksayim,ikincisayim,basharf);
 
-    return 0; */
+    return 0; 
 
-    /*int can = 20;
+    int can = 20;
     float sayim = 4.64;
     double doublesayim = 4.56;
     char karakterim = 'h';
@@ -71,5 +71,5 @@ int main()
     printf("Float degiskeni hafizada %d byte kadar yer tutar\n",sizeof(sayim));
     printf("Double degiskeni hafizada %d byte kadar yer tutar\n",sizeof(doublesayim));
 
-    return 0; */
+    return 0; 
 }
