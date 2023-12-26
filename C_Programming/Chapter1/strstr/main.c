@@ -4,7 +4,7 @@
 
 int main()
 {
-    char can[100]="C dilini ogreniyoruz";
+    char can[100]="C dilini ogreniyoum";
     char *sub;
 
     sub = strstr(can,"dil");
